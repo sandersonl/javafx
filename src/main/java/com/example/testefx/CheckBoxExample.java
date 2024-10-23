@@ -8,7 +8,6 @@ import javafx.scene.control.CheckBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-
 public class CheckBoxExample extends Application {
 
     Stage window;
@@ -34,7 +33,6 @@ public class CheckBoxExample extends Application {
         VBox layout = new VBox(10);
         layout.setPadding(new Insets(20));
         layout.getChildren().addAll(box1, box2, button);
-
 
         scene = new Scene(layout, 300, 250);
         window.setScene(scene);
