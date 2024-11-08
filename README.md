@@ -6,7 +6,7 @@ This repository is dedicated to studying JavaFX and its various visual component
 - Examples of JavaFX UI components (buttons, text fields, labels, etc.)
 - Layout management techniques
 - Event handling in JavaFX
-- 
+  
 ## Requirements
 - Java 8 or higher
 - JavaFX SDK (if not included in your JDK)
